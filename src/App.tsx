@@ -7,6 +7,7 @@ import Applayout from "./layout/Applayout";
 import SignIn from "./pages/SignIn";
 
 function App() {
+  console.log("d");
   return (
     <>
       <BrowserRouter>
